@@ -1,0 +1,14 @@
+.App {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+h1.title {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 50px;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 0;
+
+}
