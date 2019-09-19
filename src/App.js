@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
 import WeatherCardList from './WeatherCardList';
+import RightPanel from './RightPanel'
 
 function App() {
   return (
     <div className="App">
-      <h1 className="title">weather app</h1>
      <WeatherCardList />   
+     <RightPanel />
     </div>
   );
 }

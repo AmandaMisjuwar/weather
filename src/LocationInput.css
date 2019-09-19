@@ -1,0 +1,23 @@
+.locationInput {
+    font-family: Nunito;
+    width: 100%;
+    margin-top: 10%;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid #231815;
+    background: none;
+    font-size: 25px;
+    color: #231815;
+}
+
+::-webkit-input-placeholder {
+    font-family: Nunito;
+    font-size: 25px;
+    color: #aca6a5;
+}
+
+input:focus { 
+    outline: none;
+  }
